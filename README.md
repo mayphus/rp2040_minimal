@@ -1,6 +1,8 @@
-RP2040 minimal design with USB C
+# Minimal RP2040 Board
 
 > **Status:** Hardware snapshot — preserved for reference and not actively maintained.
+
+RP2040 minimal design with USB C
 
 from RP2040 offical example.
 
