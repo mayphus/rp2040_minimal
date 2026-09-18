@@ -1,3 +1,7 @@
+> **Archived after consolidation — 18 September 2026.** Maintenance and original Git history now live in [hardware-designs](https://github.com/mayphus/hardware-designs/tree/main/boards/rp2040_minimal). This repository is retained as a historical reference; use the successor for new work.
+
+---
+
 # Minimal RP2040 Board
 
 > **Status:** Hardware snapshot — preserved for reference and not actively maintained.
